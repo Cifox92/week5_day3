@@ -3,10 +3,6 @@
 > Google Maps
 >
 > Express + Google Maps
->
-> Axios
->
-> ChartJS
 
 
 ## Main Points: Google Maps
